@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dmitriy, software developer at Piano Software Inc.
+I'm Dmitriy, software developer at T-Bank.
 
 
 # 💻 Tech Stack:
